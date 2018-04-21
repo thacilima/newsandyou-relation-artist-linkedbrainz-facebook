@@ -10,4 +10,4 @@ The structure of the dumped 'atributo' table is showed below:
 
 The 'lb_uri' attribute is the entity URI in LinkedBrainz and the 'fb_uri' attribute is the respective entity Facebook page URI (its value is null when there isn's a found page on Facebook for the entity).
 
-* This contribution is the result of my final project for the Computer Science Bachelor Degree in UFRJ.
+\* This contribution is the result of my final project for the Computer Science Bachelor Degree in UFRJ.
