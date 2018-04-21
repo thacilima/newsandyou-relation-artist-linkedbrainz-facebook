@@ -1,4 +1,4 @@
-# tcc-cc-ufrj-linkedBrainz-with-facebookPages
+# Relation Between: LinkedBrainz Artist Entities - Facebook Artist Page
 Sharing data of the relation between the entities with types MusicArtist, MusicGroup and SoloMusicArtist from LinkedBrainz and its respective page on Facebook (when such page exists).
 
 This repo is for sharing a dump of a table called 'atributo' in a relational database. This dumped table 'atributo' make the relation between the URIs of entities with types MusicArtist, MusicGroup and SoloMusicArtist collected from LinkedBrainz and the URIs of its respective page on Facebook (when such page exists).
